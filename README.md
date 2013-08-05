@@ -38,4 +38,6 @@ controller like any other CodeIgniter library
     }
     
 ### More information
-For more information on using the Force.com SOAP API, see: http://www.salesforce.com/us/developer/docs/api/index_Left.htm
+For more information on using the Force.com SOAP API, see: http://www.salesforce.com/us/developer/docs/api/
+
+See also the Force.com toolkit license in the file `third_party/salesforce/license`
